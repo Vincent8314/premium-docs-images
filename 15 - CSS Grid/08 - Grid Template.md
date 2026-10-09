@@ -74,4 +74,4 @@ The `grid-auto-flow` property controls how the grid items are placed in the grid
 
 Now as you add new items, they will be placed in columns instead of rows.
 
-<img src="../images/grid-auto-flow.png" alt="Grid Auto Flow">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-auto-flow.png" alt="Grid Auto Flow">

@@ -168,7 +168,7 @@ We added some basic styles for font sizes, spacing, etc. We have a hover effect 
 
 It should look like this so far:
 
-<img src="../images/presentation-1.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/presentation-1.png" alt="">
 
 ## Page Colors
 

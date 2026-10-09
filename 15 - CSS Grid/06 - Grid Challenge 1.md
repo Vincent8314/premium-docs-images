@@ -50,7 +50,7 @@ We have 12 items in a grid. Your task is to create a grid with 3 columns and 4 r
 
 It should look like this:
 
-<img src="../images/grid-14.png" alt="Grid Challenge 1">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-14.png" alt="Grid Challenge 1">
 
 <details>
 

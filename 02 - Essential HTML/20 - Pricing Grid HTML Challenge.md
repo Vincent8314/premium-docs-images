@@ -2,13 +2,13 @@
 
 We have come to our first challenge project. In this challenge, you are going to create the HTML for a pricing grid. Ultimately, the page will look like this:
 
-<img src="images/pricing-grid.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/pricing-grid.png" />
 
 However, right now we are only focusing on the HTML.
 
 Here is what I want you to create now:
 
-<img src="images/pricing-grid-html.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/blob/main/images/pricing-grid-html.png" />
 
 We have 3 pricing cards. A `card` in UI design is a container that holds information. They typically have a border and a shadow to make them stand out. Each card has a heading, price, price info, main text, a button, and a list of features.
 

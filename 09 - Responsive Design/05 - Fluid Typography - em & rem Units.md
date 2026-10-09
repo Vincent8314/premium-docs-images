@@ -8,7 +8,7 @@ up to this point, we have been using `px` units to set the font size, add margin
 
 The `rem` unit is relative to the root element. The root element is the `html` element. The default of that element is `16px`. So if we set `p` elements to `1rem`, that is going to be equal to `16px` because `1` x `16px` is `16px`. If we set it to `2rem`, it will be `32px` because `2` x `16px` is `32px`. It does't have to be a whole number either. We can set it to `1.5rem` and it will be `24px` because `1.5` x `16px` is `24px`.
 
-<img src="../images/rem-units.png" alt="rem Units" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/rem-units.png" alt="rem Units" width="500">
 
 Let's look at a simple example. We will use the following HTML:
 
@@ -57,7 +57,7 @@ p {
 
 We see no change because `1rem` is equal to `16px` by default. If you open your devtools and go to the **computed** tab, you will see that the font size is `16px`.
 
-<img src="../images/rem-devtools.png" alt="rem Units" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/rem-devtools.png" alt="rem Units" width="600">
 
 If we change the font size of the `html` element to `10px`, the `p` element will be `10px`:
 
@@ -73,13 +73,13 @@ The main advantage of using `rem` units is that it makes it easier to change the
 
 You can try this out. If you are using Chrome, go to the settings and search for font size. You can change the font size and see that the `rem` units will change accordingly.
 
-<img src="../images/font-settings.png" alt="rem Units" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/font-settings.png" alt="rem Units" width="500">
 
 ## `em` Units
 
 Everything that we just learned about `rem` units also applies to `em` units. The only difference is that `em` units are relative to the parent element. If our paragraph is set to `2em` and the parent element is set to `20px`, the paragraph will be `40px`.
 
-<img src="../images/em-units.png" alt="em Units" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/em-units.png" alt="em Units" width="500">
 
 If there is no parent element font size set, the `em` unit will be relative to the `html` element.
 
@@ -107,7 +107,7 @@ Let's add a font size of `20px` to the `.container` element, which it its parent
 
 Now the `h1` element will be `40px` because `2` x `20px` is `40px`.
 
-<img src="../images/em-unit.png" alt="em Units" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/em-unit.png" alt="em Units" width="600">
 
 You can also use `em` units for margin and padding. Again, they don't have to be whole numbers. You can even set elements to something like `0.3em` or `.3em`. These are both the same thing.
 

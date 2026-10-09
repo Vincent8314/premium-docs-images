@@ -123,7 +123,7 @@ Let's add some padding to the links and we will have a background color on hover
 
 It should look like this:
 
-<img src="../images/lumina-1.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-1.png" alt="" />
 
 ## Responsiveness & Media Query
 
@@ -147,4 +147,4 @@ We are simply changing the direction from row to column so that the elements sta
 
 Now on smaller screens, it should look like this:
 
-<img src="../images/lumina-2.png" alt="" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-2.png" alt="" width="400" />

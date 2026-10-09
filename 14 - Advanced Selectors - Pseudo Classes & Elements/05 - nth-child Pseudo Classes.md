@@ -67,7 +67,7 @@ ul li:first-child {
 
 The first item in the list will now have a light blue background.
 
-<img src="../images/first-child.png" alt="First Child" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/first-child.png" alt="First Child" width="400" />
 
 ## The `last-child` Selector
 
@@ -83,7 +83,7 @@ ul li:last-child {
 
 The last item in the list will now have a light coral background.
 
-<img src="../images/last-child.png" alt="Last Child" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/last-child.png" alt="Last Child" width="400" />
 
 ## The `nth-child` Selector
 
@@ -103,7 +103,7 @@ ul li:nth-child(even) {
 
 It will override the previous styles and style every odd item with a light green background and every even item with a light yellow background.
 
-<img src="../images/nth-odd-even.png" alt="Nth Child" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/nth-odd-even.png" alt="Nth Child" width="400" />
 
 We can also target specific items by their position in the list. Let's style the 3rd, 6th, and 9th items:
 
@@ -123,7 +123,7 @@ ul li:nth-child(9) {
 
 The 3rd, 6th, and 9th items will now have a light coral background.
 
-<img src="../images/nth-child.png" alt="Nth Child" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/nth-child.png" alt="Nth Child" width="400" />
 
 We can also use the `n` keyword to target items based on a formula. For example, we can target every 4th item:
 
@@ -135,7 +135,7 @@ ul li:nth-child(4n) {
 
 Every 4th item will now have a light blue background.
 
-<img src="../images/nth-n.png" alt="Nth Child 4n" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/nth-n.png" alt="Nth Child 4n" width="400" />
 
 This is very useful when we want to style elements based on their position in the DOM and you don't want to add classes to each element.
 

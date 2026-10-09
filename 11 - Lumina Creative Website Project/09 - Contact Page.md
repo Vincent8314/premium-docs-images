@@ -247,4 +247,4 @@ I do want the contact form button to span the entire width. So let's add this:
 
 That's it! The form should look like this:
 
-<img src="../images/lumina-8"  alt="" width="600" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-8"  alt="" width="600" />

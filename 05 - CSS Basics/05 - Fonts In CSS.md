@@ -96,7 +96,7 @@ Fonts can be broadly classified into two categories: serif and sans-serif.
 
 - **Sans-serif fonts** do not have these small lines or strokes, giving them a cleaner and more modern look. Sans-serif fonts are often used for digital content and are considered more readable on screens. Examples of sans-serif fonts include Arial, Helvetica, and Verdana.
 
-<img src="../images/serif-sans-serif.png" alt="Serif vs Sans-Serif Fonts" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/serif-sans-serif.png" alt="Serif vs Sans-Serif Fonts" />
 
 When choosing fonts for your website, consider the tone and style you want to convey. Serif fonts are often used for more formal or traditional websites, while sans-serif fonts are popular for modern and clean designs.
 

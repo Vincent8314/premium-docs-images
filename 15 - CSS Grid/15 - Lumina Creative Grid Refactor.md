@@ -2,7 +2,7 @@
 
 In this project, you'll refactor the Lumina Creative website gallery section using CSS Grid. We are going to have some of the images span rows and columns and ultimately look like this:
 
-<img src="../images/lumina-grid.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-grid.png" alt="" />
 
 Let's get right into it. I suggest copying the existing project that you have or just downloading the original version from this lesson or the main repo and rename the folder to `lumina-creative-grid`. Open it up in your editor.
 
@@ -130,4 +130,4 @@ First, we set the grid to have 2 columns. Then we make the first image span 2 co
 
 It should look like this on small screens:
 
-<img src="../images/lumina-grid-2.png" alt="" width="500" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-grid-2.png" alt="" width="500" />

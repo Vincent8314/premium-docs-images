@@ -108,7 +108,7 @@ The rest of the CSS is just styling the mobile menu items and is pretty self-exp
 
 It should look like this on smaller screens:
 
-<img src="../images/tutor-13.png" width="400" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-13.png" width="400" />
 
 ### Hide Mobile Menu items
 

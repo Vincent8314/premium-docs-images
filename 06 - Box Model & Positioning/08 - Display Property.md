@@ -95,7 +95,7 @@ Height abd width properties are not applied to inline elements. In some situatio
 
 You can see that the height and width properties are not applied to the `inline` elements. The margin is applied horizontally, but not vertically.
 
-<img src="../images/inline-block-1.png" alt="Inline Block" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/inline-block-1.png" alt="Inline Block" width="500">
 
 You may still want to have these elements inline but also want to apply height, width, and margin. In this case, you can use the `inline-block` value for the display property. Let's change the `inline` elements to `inline-block`:
 
@@ -112,7 +112,7 @@ You may still want to have these elements inline but also want to apply height, 
 
 Now you can see that the height, width, and margin properties are applied to the `inline-block` elements.
 
-<img src="../images/inline-block-2.png" alt="Inline Block" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/inline-block-2.png" alt="Inline Block" width="500">
 
 Here are all of the possible values for the display property:
 

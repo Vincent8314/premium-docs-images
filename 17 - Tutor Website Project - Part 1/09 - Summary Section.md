@@ -124,4 +124,4 @@ It is already pretty responsive, however, I do want to remove some of the paddin
 
 The section should look like this:
 
-<img src="../images/tutor-6.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-6.png" />

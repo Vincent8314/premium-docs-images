@@ -28,13 +28,13 @@ Responsive design relies on the use of flexible layouts, flexible images, and CS
 
 If we look at a website like Netflix, for example, on a larger screen, it looks like this:
 
-<img src="../images/netflix-1.png" alt="Netflix on desktop" width="800">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/netflix-1.png" alt="Netflix on desktop" width="800">
 
 There is a main hero area with a form and a 2-column layout below it.
 
 If we make the browser smaller, you can see things start to change. The form button is now underneath the input fields and the 2-column layout is now a single column.
 
-<img src="../images/netflix-2.png" alt="Netflix on desktop" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/netflix-2.png" alt="Netflix on desktop" width="400">
 
 So these are some of the common things that will change as a website becomes responsive:
 

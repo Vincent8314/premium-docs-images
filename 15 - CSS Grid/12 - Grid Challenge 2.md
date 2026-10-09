@@ -4,7 +4,7 @@ In this challenge, you are going to create a layout with a header, nav, search, 
 
 Here is the layout:
 
-<img src="../images/grid-layout.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-layout.png" alt="">
 
 It doesn't matter if you use the same CSS that I do as long as it looks like this. You really only have to have 2 column spans in the CSS to make this work.
 
@@ -76,7 +76,7 @@ footer {
 
 It looks like this to begin with:
 
-<img src="../images/grid-layout-2.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-layout-2.png" alt="">
 
 I would suggest setting the `grid-template-columns` and `grid-template-rows` first. Then you can use `grid-column` and `grid-row` to span the items that you need.
 

@@ -71,7 +71,7 @@ We have some basic styling on the footer itself. We are making the `footer-flex`
 
 It should look like this:
 
-<img src="../images/lumina-5.png" alt="" width="600" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-5.png" alt="" width="600" />
 
 ## Media Query
 
@@ -99,4 +99,4 @@ I also wanted to align the items to the center and increase the gap a bit.
 
 It should look like this on small screens:
 
-<img src="../images/lumina-6.png" alt="" width="600" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-6.png" alt="" width="600" />

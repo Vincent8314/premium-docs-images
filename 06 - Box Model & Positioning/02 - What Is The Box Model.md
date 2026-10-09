@@ -4,7 +4,7 @@ The box model is a fundamental concept in CSS that defines the design and layout
 
 If you go to any webpage and inspect an element using the browser's developer tools and click on `Computed` over where the CSS is, you will see a visual representation of the box model. The box model consists of four parts:
 
-<img src="../images/box-model.png" alt="Box Model" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/box-model.png" alt="Box Model" width="400">
 
 1. **Content**: The content of the box, where text and images are displayed.
 

@@ -107,7 +107,7 @@ We are using the grid to make a 3-column layout. Each card will have an image, a
 
 It should look like this:
 
-<img src="../images/tutor-5.png" alt="Chapters Section">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-5.png" alt="Chapters Section">
 
 Let's add the following media query class to make the section responsive:
 

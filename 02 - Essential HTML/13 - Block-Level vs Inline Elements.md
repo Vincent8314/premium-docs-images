@@ -73,12 +73,12 @@ Now let's put two paragraphs and two anchor tags in the `body` section of the `i
 <a href="#">Link 2</a>
 ```
 
-<img src="../images/block-inline.png" alt="block vs inline elements" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/block-inline.png" alt="block vs inline elements" />
 
 As you can see both paragraphs are on their own line and take up the full width of the container. The anchor tags are on the same line and only take up as much space as their content.
 
 If you look at the default styling with the developer tools in your browser, you will see that the `<p>` tags have a `display: block` property, while the `<a>` tags have a `display: inline` property.
 
-<img src="../images/block-inline-devtools.png" alt="block vs inline elements in devtools" width="300" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/block-inline-devtools.png" alt="block vs inline elements in devtools" width="300" />
 
 Understanding the difference between block-level and inline elements is important when structuring your HTML and styling your website with CSS.

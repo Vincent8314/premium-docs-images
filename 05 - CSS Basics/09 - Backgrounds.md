@@ -84,7 +84,7 @@ background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d
 
 Open the HTML file in your browser, and you should see the background image displayed behind the text. However, the image is going to be really big and you will probably only see the blue sky or part of whatever image you used.
 
-<img src="../images/background-image-1.png" alt="Background Image" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/background-image-1.png" alt="Background Image" width="500">
 
 We will get to that soon. First, let's cover the `background-repeat` property.
 
@@ -117,7 +117,7 @@ Let's set the background size of the `.hero` class to `cover`:
 }
 ```
 
-<img src="../images/background-image-2.png" alt="Background Image" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/background-image-2.png" alt="Background Image" width="500">
 
 Now the background image should cover the entire `.hero` element, however it still is not positioned correctly. This is where the `background-position` property comes in.
 
@@ -132,7 +132,7 @@ Just to see the repeat effect, change the `background-repeat` property to `repea
 }
 ```
 
-<img src="../images/background-image-4.png" alt="Background Image" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/background-image-4.png" alt="Background Image" width="500">
 
 Now put it back to `no-repeat` and `cover`.
 
@@ -152,7 +152,7 @@ Let's set the background position of the `.hero` class to `center`:
 }
 ```
 
-<img src="../images/background-image-3.png" alt="Background Image" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/background-image-3.png" alt="Background Image" width="500">
 
 Now the image is centered.
 

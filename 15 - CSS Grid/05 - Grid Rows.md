@@ -51,7 +51,7 @@ We have a grid with 6 items. Let's add some rows to it:
 
 This will create 3 rows with the specified height. The first row will have a height of 100px, the second 200px, and the third 300px. Anything beyond that will be ignored and normal height of the content.
 
-<img src="../images/grid-12.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-12.png" alt="" />
 
 We can also use the `fr` unit to create rows with a fraction of the available space:
 
@@ -89,7 +89,7 @@ You may want the remaining rows to have a specific height. You can use the `grid
 
 Now the rows that are not defined in the `grid-template-rows` property will have a height of 100px. I am going to go over the `grid-auto-rows` and `grid-auto-columns` more in a later lesson.
 
-<img src="../images/grid-13.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-13.png" alt="" />
 
 ### Grid Gap
 
@@ -122,6 +122,6 @@ We can also mix and match the `grid-template-rows` and `grid-template-columns` p
 
 Now we have a grid with 3 columns and 3 rows.
 
-<img src="../images/grid-14.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-14.png" alt="" />
 
 In the next lesson, we will do a little challenge to practice what we have learned so far.

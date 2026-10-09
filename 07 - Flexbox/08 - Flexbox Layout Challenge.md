@@ -2,7 +2,7 @@
 
 I want to test your Flexbox skills with a quick challenge. I want you to create the following layout using Flexbox:
 
-<img src="../images/flexbox-challenge.png" alt="Flexbox Challenge">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexbox-challenge.png" alt="Flexbox Challenge">
 
 It's up to you if you want to style the rest of the page like this, but I want you to have the following:
 

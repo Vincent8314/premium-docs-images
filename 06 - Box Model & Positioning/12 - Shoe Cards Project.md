@@ -2,7 +2,7 @@
 
 In this project, we will use the stuff that we've learned to create the following content cards:
 
-<img src="../images/shoe-cards.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards.png" alt="Shoe Cards" width="500"/>
 
 We will use properties that have to do with the box model, such as `padding`, `margin`. We'll use colors as well as background images.
 
@@ -66,7 +66,7 @@ body {
 
 We're setting the font family to Roboto, a sans-serif font. We're setting the background color to a light blue and centering the 600px container and adding a bit of padding.
 
-<img src="../images/shoe-cards-1.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards-1.png" alt="Shoe Cards" width="500"/>
 
 ### Card Styling
 
@@ -84,7 +84,7 @@ Let's style the card itself:
 
 We're setting the background color to white, adding a border radius, a box shadow, some margin, and padding.
 
-<img src="../images/shoe-cards-2.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards-2.png" alt="Shoe Cards" width="500"/>
 
 ### Card Content Styling
 
@@ -123,7 +123,7 @@ I want the headings to be different colors. Each card has a specific class, so w
 }
 ```
 
-<img src="../images/shoe-cards-3.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards-3.png" alt="Shoe Cards" width="500"/>
 
 ### Links
 
@@ -163,7 +163,7 @@ I also want the links to be different colors:
 }
 ```
 
-<img src="../images/shoe-cards-4.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards-4.png" alt="Shoe Cards" width="500"/>
 
 ### Background Images
 
@@ -186,6 +186,6 @@ Finally, let's add the background images:
 
 We have three images in the images folder. We're setting the background color to white and adding the image to the right of the card and setting the size to 200px.
 
-<img src="../images/shoe-cards.png" alt="Shoe Cards" width="500"/>
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shoe-cards.png" alt="Shoe Cards" width="500"/>
 
 In the real world, I would probably use an inline image and align it with flexbox. But for this project, we're just using background images, which is also fine.

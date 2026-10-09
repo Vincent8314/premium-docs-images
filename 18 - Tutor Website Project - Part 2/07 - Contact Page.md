@@ -311,7 +311,7 @@ Let's add the CSS for the map:
 
 We are styling the map and the elements around it. It should look like this:
 
-<img src="../images/tutor-map.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-map.png" />
 
 ## Summary
 

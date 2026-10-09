@@ -82,7 +82,7 @@ We still have the same result. Now let's add names to the grid lines for the col
 
 Now open up the devtools and inspect the grid. Select the `Layout` tab and then select "Show line names" from the dropdown. You should see the names we just added.
 
-<img src="../images/grid-39.png" alt="naming grid lines">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-39.png" alt="naming grid lines">
 
 Now name the rows:
 
@@ -96,7 +96,7 @@ Now name the rows:
 
 You should now see the names for the rows as well.
 
-<img src="../images/grid-40.png" alt="naming grid lines">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-40.png" alt="naming grid lines">
 
 Now let's use these names to place items on the grid:
 

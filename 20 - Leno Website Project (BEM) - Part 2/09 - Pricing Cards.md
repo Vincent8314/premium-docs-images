@@ -149,7 +149,7 @@ Now let's add the CSS for the pricing section:
 
 They should look like this:
 
-<img src="../images/leno-pricing.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/leno-pricing.png" />
 
 They look good, but they are not responsive yet. Let's add some CSS in the `768px` media query to make them responsive:
 

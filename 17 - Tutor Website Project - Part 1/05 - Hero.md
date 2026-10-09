@@ -213,4 +213,4 @@ Finally, for the `576px` breakpoint, we will just change the image width:
 
 Now the hero section should look good on all of the screen sizes. it should look like this:
 
-<img src="../images/tutor-3.png" alt="Hero Section">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-3.png" alt="Hero Section">

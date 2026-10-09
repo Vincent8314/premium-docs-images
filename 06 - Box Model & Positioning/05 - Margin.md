@@ -45,7 +45,7 @@ body {
 
 It should look like this:
 
-<img src="../images/margin-1.png" alt="Margin 1" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/margin-1.png" alt="Margin 1" width="300">
 
 Now this can be a bit confusing because there is already spacing between the boxes. This is the margin. This is the default margin applied to the `h3` and `p` tags. You can use the devtools to see the margin applied to the elements.
 
@@ -60,7 +60,7 @@ p {
 
 Now it looks like this:
 
-<img src="../images/margin-2.png" alt="Margin 2" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/margin-2.png" alt="Margin 2" width="300">
 
 I always reset the margin and padding on all elements at the beginning of my CSS file. I will talk about that in the next lesson.
 
@@ -74,7 +74,7 @@ Let's add some margin to the first box:
 
 This added 20px of margin to all sides of the box. It looks like this:
 
-<img src="../images/margin-3.png" alt="Margin 3" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/margin-3.png" alt="Margin 3" width="300">
 
 We have the same options for margin as we do for padding. We can use `margin-top`, `margin-right`, `margin-bottom`, and `margin-left` to add margin to specific sides.
 
@@ -89,7 +89,7 @@ We can also use the `margin` property to add margin to all sides at once.
 }
 ```
 
-<img src="../images/margin-4.png" alt="Margin 4" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/margin-4.png" alt="Margin 4" width="300">
 
 #### T-R-B-L
 
@@ -125,7 +125,7 @@ You can use the `auto` value for the `margin` property to center an element hori
 
 This will center the box horizontally within the body element. It will look like this:
 
-<img src="../images/margin-5.png" alt="Margin 5" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/margin-5.png" alt="Margin 5" width="500">
 
 You will use this a lot to center your web page content, usually in a class called `container` or `wrapper`.
 

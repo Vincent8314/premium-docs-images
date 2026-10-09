@@ -142,7 +142,7 @@ We also need to add the hover effects to the text and social icons. Add the mobi
 
 it should look like this:
 
-<img src="../images/leno-mobile-menu.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/leno-mobile-menu.png" />
 
 We want to hide it by deault but we don't want to just set the display to none. We want it to slide in from the right. So let's position it off the screen to the right:
 

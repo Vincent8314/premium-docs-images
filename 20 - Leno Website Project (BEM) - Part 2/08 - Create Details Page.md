@@ -212,4 +212,4 @@ All we are doing is adding a background image to the header and centering the ti
 
 It should look like this:
 
-<img src="../images/leno-inner-header.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/leno-inner-header.png" />

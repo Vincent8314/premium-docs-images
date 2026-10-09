@@ -14,7 +14,7 @@ The `viewport` meta tag looks like this:
 
 If you don't include this tag in your HTML, the browser will render the page at a typical desktop screen width, scaled to fit the screen. This means that the text will be too small to read on a mobile device. The `viewport` meta tag tells the browser to set the page width to the device's width and scale it to 100%.
 
-<img src="../images/viewport.png" alt="Viewport" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/viewport.png" alt="Viewport" width="500">
 
 The `viewport` meta tag has a few attributes that you can use to control the layout:
 

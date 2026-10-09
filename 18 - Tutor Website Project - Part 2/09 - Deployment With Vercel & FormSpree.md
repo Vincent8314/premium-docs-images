@@ -24,11 +24,11 @@ git push -u origin main
 
 Sign into Vercel with your Github account and click on the "Add New-> Project" button. Select your repository and click on the "Import" button.
 
-<img src="../images/vercel-repo.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/vercel-repo.png" />
 
 Leave all of the defaults for the form and click on the "Deploy" button. Once the deployment is complete, you will see a success message with a link to your website.
 
-<img src="../images/vercel-congrats.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/vercel-congrats.png" />
 
 Your site is now deployed and whenever you push new changes to your repository, Vercel will automatically deploy the changes.
 
@@ -36,11 +36,11 @@ Your site is now deployed and whenever you push new changes to your repository, 
 
 To integrate FormSpree with our contact form, we need to create an account on [FormSpree](https://formspree.io/). Sign up with your email and verify your account.
 
-<img src="../images/formspree-1.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/formspree-1.png" />
 
 When you log in, you will see a dashboard with your email address. Click on the "Create New Form" on the left.
 
-<img src="../images/formspree-2.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/formspree-2.png" />
 
 Name it and put an email that you want to receive the form submissions. Click on the "Create Form" button.
 
@@ -73,4 +73,4 @@ It may take a few minutes, but your production site will now have a working cont
 
 You should see a thank you message.
 
-<img src="../images/formspree-thanks.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/formspree-thanks.png" />

@@ -112,4 +112,4 @@ On small screens, I am going to get rid of the image and just show the text cont
 
 This section should look like this:
 
-<img src="../images/tutor-7.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-7.png" />

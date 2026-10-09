@@ -38,7 +38,7 @@ body {
 
 It should look like this:
 
-<img src="../images/flex-21.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-21.png" alt="Flex Items" width="600">
 
 ## Flex Item Properties
 
@@ -94,7 +94,7 @@ Let's set the `flex-grow` property for the first item to `1`:
 
 It will now be the same size until you start to resize the flex container and then it will grow to take up the remaining space.
 
-<img src="../images/flex-22.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-22.png" alt="Flex Items" width="600">
 
 The other items are not growing because they have a `flex-grow` value of `0`.
 
@@ -133,7 +133,7 @@ Let's set the `flex-basis` property for the second item to `200px`:
 
 Now the second item will have an initial size of `200px`. So the first one will not grow until the second one reaches `200px`.
 
-<img src="../images/flex-23.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-23.png" alt="Flex Items" width="600">
 
 ### `flex`
 
@@ -161,7 +161,7 @@ Let's remove the `flex-basis` value:
 
 Now all of the items will shrink equally and take up the full width of the flex container.
 
-<img src="../images/flex-24.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-24.png" alt="Flex Items" width="600">
 
 We can take this a step further. Since the `flex-shrink` and `flex-basis` values are 0, we can actually just use the `flex-grow` value:
 

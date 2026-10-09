@@ -2,7 +2,7 @@
 
 In this mini-project, we will create a pricing grid that looks like this:
 
-<img src="../images/pricing-grid.png" alt="Pricing Grid">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/pricing-grid.png" alt="Pricing Grid">
 
 If you have been following along with the course, we did the HTML part of this already. We are going to add just a little bit to that including the Montserrat font and some Font Awesome checkmark icons. I will include the HTML code below.
 

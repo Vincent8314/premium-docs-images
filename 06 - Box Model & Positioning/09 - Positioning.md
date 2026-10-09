@@ -50,7 +50,7 @@ To do, this we can use the `position` property with the value of `relative` and 
 
 This will move the `.box2` element 50 pixels down and 50 pixels to the right from its normal position.
 
-<img src="../images/positioning-1.png" alt="Relative Positioning" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/positioning-1.png" alt="Relative Positioning" width="400">
 
 ## Fixed Positioning
 
@@ -67,7 +67,7 @@ To do this, we can use the `position` property with the value of `fixed` and the
 }
 ```
 
-<img src="../images/positioning-2.png" alt="Relative Positioning" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/positioning-2.png" alt="Relative Positioning" width="400">
 
 ## Sticky Positioning
 
@@ -85,7 +85,7 @@ To do this, we can use the `position` property with the value of `sticky` and th
 
 Make the browser window smaller vertically and scroll down to see the `.box4` element stick to the top of the viewport.
 
-<img src="../images/positioning-3.png" alt="Relative Positioning" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/positioning-3.png" alt="Relative Positioning" width="400">
 
 Notice that it goes behind the other elements when you scroll down. We can control this with the `z-index` property. I will cover this in a minute.
 
@@ -115,7 +115,7 @@ Let's make the `.box5` element positioned relative and the `.box6` element posit
 
 Now the `.box6` element is positioned 20 pixels down and 20 pixels to the right from the `.box5` element.
 
-<img src="../images/positioning-5.png" alt="Relative Positioning" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/positioning-5.png" alt="Relative Positioning" width="400">
 
 ## Z-Index
 

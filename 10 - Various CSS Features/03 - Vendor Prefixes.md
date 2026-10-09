@@ -11,7 +11,7 @@ You may have come across some CSS properties that have a `-webkit-`, `-moz-`, or
 
 You can find out which properties need prefixes by checking [Can I Use](https://caniuse.com/). For instance you can type in "CSS Grid" and see which properties need prefixes. The grid is supported in all modern browsers, but you can see IE 6-9 it is not supported and it is partially supported in IE 10 and 11.
 
-<img src="../images/caniuse.png" alt="Can I Use CSS Grid">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/caniuse.png" alt="Can I Use CSS Grid">
 
 ## Do You Need Them?
 

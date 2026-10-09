@@ -2,7 +2,7 @@
 
 Now that we know how to implement CSS in our HTML, let's dive into the syntax of CSS.
 
-<img src="../images/css-syntax.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/css-syntax.png" />
 
 There are three main parts to a CSS rule:
 

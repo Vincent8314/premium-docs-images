@@ -21,7 +21,7 @@ Let's create a simple form with text inputs for a user's name, email, and passwo
 
 Without any styling, this form is pretty ugly:
 
-<img src="../images/form-1.png" alt="Ugly text inputs" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/bono-form-1.png" alt="Ugly text inputs" />
 
 `<input>` elements are inline by default, so they appear next to each other. We will later use CSS to style the form and make it look more visually appealing. You could use line breaks (`<br>`) to separate the input fields, but it's better to use CSS for layout purposes.
 

@@ -70,7 +70,7 @@ Of course, it doesn't have to be a fraction. You can use any value or list of va
 
 This will create three columns with 100 pixels each.
 
-<img src="../images/grid-8.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-8.png" alt="">
 
 You can add more than one pattern:
 
@@ -84,7 +84,7 @@ You can add more than one pattern:
 
 This will create six columns: three with 100 pixels and three with 200 pixels and they will alternate.
 
-<img src="../images/grid-9.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-9.png" alt="">
 
 ## The `minmax()` Function
 

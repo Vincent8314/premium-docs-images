@@ -83,7 +83,7 @@ Now the images will be 3 per row and we don't need to have the special HTML stru
 
 It should look like this:
 
-<img src="../images/lumina-4.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-4.png" alt="" />
 
 Let's add a fade effect when hovered:
 

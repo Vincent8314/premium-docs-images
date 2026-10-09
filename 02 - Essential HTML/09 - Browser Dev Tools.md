@@ -14,7 +14,7 @@ If you are using Live Server, you are going to see some weird stuff in the sourc
 
 Modern web browsers come with built-in developer tools that allow you to inspect and modify the elements of a webpage. You can access the developer tools by right-clicking on the page and selecting "Inspect" or by pressing `Ctrl+Shift+I` on Windows or `Cmd+Option+I` on Mac.
 
-<img src="../images/devtools.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/devtools.png" />
 
 From here, you will see a bunch of tabs. This can be a little confusing at first, but the most important for this course is the "Elements" tab. This is where you can see all of the HTML and CSS for the page. You can hover over elements in the "Elements" tab to see how they are styled and where they are located in the source code. You can also click the "select" button in the top left corner of the "Elements" tab and then click on an element on the page to highlight it in the source code.
 

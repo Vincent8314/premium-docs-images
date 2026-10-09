@@ -39,7 +39,7 @@ We can add the `flex-wrap` property to the flex container to make the items wrap
 
 Now when you make the browser window smaller, the items will wrap to the next line.
 
-<img src="../images/flex-6.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-6.png" alt="Flex Items" width="500">
 
 This is one option to make your layout more responsive. Later, when we get into media queries, we will see how to make the layout even more responsive.
 
@@ -76,7 +76,7 @@ But there is a better way to add space between the items. You can use the `gap` 
 
 This will add space between items both horizontally and vertically.
 
-<img src="../images/flex-19.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-19.png" alt="Flex Items" width="500">
 
 You can also use the `row-gap` and `column-gap` properties to add space between the items in a specific direction.
 

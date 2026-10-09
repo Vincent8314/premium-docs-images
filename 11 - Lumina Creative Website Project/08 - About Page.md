@@ -232,4 +232,4 @@ We want the services and team items to stack on small screens. Add the following
 
 The page should look like this:
 
-<img src="../images/lumina-7.png" alt="" width="600" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-7.png" alt="" width="600" />

@@ -154,4 +154,4 @@ Then on really small screens, I just want to align the `ul` to the left. Add the
 
 The section should look like this:
 
-<img src="../images/tutor-9.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-9.png" />

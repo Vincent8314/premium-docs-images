@@ -60,7 +60,7 @@ The `*` is the universal selector, which I briefly talked about a few sections a
 
 Now, the boxes look like this:
 
-<img src="../images/reset-1.png" alt="Margin 2" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/reset-1.png" alt="Margin 2" width="300">
 
 So in almost all projects from here on out, we will be including a reset. So you know margin and padding is 0 for everything when you start.
 
@@ -76,7 +76,7 @@ Let's manually add some margin and padding to the boxes:
 
 Now it looks like this:
 
-<img src="../images/reset-2.png" alt="Margin 2" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/reset-2.png" alt="Margin 2" width="300">
 
 ## Box Sizing
 

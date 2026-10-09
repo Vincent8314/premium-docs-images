@@ -75,7 +75,7 @@ footer {
 
 It looks like this:
 
-<img src="../images/grid-layout.png" alt="Responsive Grid">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-layout.png" alt="Responsive Grid">
 
 We want it to stack on small screens under 768px. We can do this by adding a media query to the CSS.
 
@@ -131,4 +131,4 @@ Now everything is stacked on top of each other on small screens. However, the se
 
 Now the main content is the 1fr row and the search is the 3rd row. Everything is stacked on top of each other on small screens.
 
-<img src="../images/grid-layout-3.png" width="300"  alt="Responsive Grid">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-layout-3.png" width="300"  alt="Responsive Grid">

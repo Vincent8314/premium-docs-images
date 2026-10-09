@@ -10,7 +10,7 @@ I believe this extension is only available for Google Chrome. So you will need t
 
 Once you install it, you should be able to click on the icon and open the sidebar.
 
-<img src="../images/accssibility1.png" alt="Skilltide Browser Extension" width="500px">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/accssibility1.png" alt="Skilltide Browser Extension" width="500px">
 
 Let's just browse over some of the features:
 

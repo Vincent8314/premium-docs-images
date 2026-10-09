@@ -14,11 +14,11 @@ Any element can be a flex container or flex item. You may have a `div` element t
 
 Flexbox provides two main axes for layout: the main axis and the cross axis. The main axis is the primary axis along which flex items are laid out, either horizontally or vertically. By default, the main axis is horizontal and a flex row looks like this:
 
-<img src="../images/flex-row.png" alt="Flexbox Axes" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-row.png" alt="Flexbox Axes" width="500">
 
 You can also change the layout to a flex column, you can set the `flex-direction` property to `column`. This allows you to stack flex items vertically within the container like this:
 
-<img src="../images/flex-column.png" alt="Flexbox Axes" width="400">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-column.png" alt="Flexbox Axes" width="400">
 
 These 2 images will be really helpful to you in the future when you're working with Flexbox. Keep them accessible for reference.
 

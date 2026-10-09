@@ -54,7 +54,7 @@ Before we start positioning the items, let's talk about grid lines. Grid lines a
 
 Open your devtools and click on the `Layout` tab and check the `Grid Overlays` checkbox. You will see the grid lines.
 
-<img src="../images/grid-lines.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-lines.png" alt="">
 
 Starting from the top left corner, the horizontal lines are numbered from 1 to 4 and the vertical lines are numbered from 1 to 4. These are the grid lines for rows. The vertical lines are the grid lines for columns.
 
@@ -72,7 +72,7 @@ Let's place the first item in the first column:
 
 Now the first item spans from the first column to the third column.
 
-<img src="../images/grid-30.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-30.png" alt="">
 
 The `grid-column` property is shorthand for `grid-column-start` and `grid-column-end`.
 
@@ -106,7 +106,7 @@ This is the same as:
 }
 ```
 
-<img src="../images/grid-31.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-31.png" alt="">
 
 We have an open space in the grid. Things get pushed down. This is because the grid is auto-placing the items.
 
@@ -120,7 +120,7 @@ Let's make item 9 span from column 2 to 4:
 
 Now it should look like this:
 
-<img src="../images/grid-32.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-32.png" alt="">
 
 This is something that we could not really do with flexbox. We can do it with the grid because we have more control over the layout.
 

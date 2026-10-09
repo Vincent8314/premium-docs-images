@@ -4,7 +4,7 @@ In the last video, we talked about how when you type in a URL into your browser,
 
 I want to go over what HTML, CSS and JavaScript are exactly as well as their roles in web development because they have very clear purposes.
 
-<img src="../images/html-css.js.png" alt="" />
+<img src="https://raw.githubusercontent.com/Vincent8314/premium-docs-images/main/images/accessibility1.png" alt="" />
 
 ## HTML
 

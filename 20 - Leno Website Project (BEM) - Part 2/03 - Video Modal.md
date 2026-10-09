@@ -126,7 +126,7 @@ Now uncomment the `display: none;` property in the CSS file for the modal. You s
 
 It should look like this:
 
-<img src="../images/leno-video-modal.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/leno-video-modal.png" />
 
 ## Responsive Design
 

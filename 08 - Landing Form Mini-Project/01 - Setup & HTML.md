@@ -4,7 +4,7 @@ In this section, we are going to create the Bono Form Landing Page. This is a fo
 
 This mini-project will use a lot of the concepts we have learned so far, including flexbox, form styling, media queries and more. If you would like to try and create this on your own, you can do so. Otherwise, follow along with the steps below.
 
-<img src="../images/bono-form.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/bono-form.png" />
 
 Let's start by creating an `index.html` file and adding some basic structure. We will include the Open Sans font from Google Fonts and Font Awesome for the icons. We will also link to a CSS file and add a favicon.
 

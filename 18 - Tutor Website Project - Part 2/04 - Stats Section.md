@@ -135,4 +135,4 @@ On really small screens, I want the stat numbers themselves to stack into a colu
 
 This section should look like this:
 
-<img src="../images/tutor-10.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-10.png" />

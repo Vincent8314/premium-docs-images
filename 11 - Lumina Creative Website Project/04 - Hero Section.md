@@ -84,4 +84,4 @@ I do want to change the height of the hero and the size of the text on smaller s
 
 Now the site should look like this:
 
-<img src="../images/lumina-3.png" alt="" width="600" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-3.png" alt="" width="600" />

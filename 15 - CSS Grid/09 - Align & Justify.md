@@ -56,7 +56,7 @@ body {
 
 It will look like this:
 
-<img src="../images/grid-23.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-23.png" alt="" />
 
 ## Justify Items
 
@@ -71,7 +71,7 @@ The `justify-items` property aligns the items inside the grid along the row axis
 }
 ```
 
-<img src="../images/grid-24.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-24.png" alt="" />
 
 The `justify-items` property can take the following values:
 
@@ -94,7 +94,7 @@ The `align-items` property aligns the items inside the grid along the column axi
 }
 ```
 
-<img src="../images/grid-25.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-25.png" alt="" />
 
 The `align-items` property can take the same values as `justify-items`.
 
@@ -113,7 +113,7 @@ The `justify-content` property aligns the grid along the row axis. This means th
 }
 ```
 
-<img src="../images/grid-26.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-26.png" alt="" />
 
 The `justify-content` property can take the following values:
 
@@ -152,7 +152,7 @@ And add the `align-content` property:
 }
 ```
 
-<img src="../images/grid-27.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-27.png" alt="" />
 
 The `align-content` property can take the same values as `justify-content`.
 
@@ -169,7 +169,7 @@ The `place-items` property is a shorthand for `align-items` and `justify-items`.
 }
 ```
 
-<img src="../images/grid-28.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-28.png" alt="" />
 
 The `place-items` property can take the same values as `justify-items` and `align-items`.
 
@@ -187,4 +187,4 @@ The `place-content` property is a shorthand for `align-content` and `justify-con
 }
 ```
 
-<img src="../images/grid-29.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-29.png" alt="" />

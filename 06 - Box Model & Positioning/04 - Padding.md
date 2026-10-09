@@ -31,7 +31,7 @@ body {
 
 It looks like this:
 
-<img src="../images/padding-2.png" alt="Padding 1" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/padding-2.png" alt="Padding 1" width="300">
 
 There is no space between the content and the border. Let's add some padding:
 
@@ -44,7 +44,7 @@ There is no space between the content and the border. Let's add some padding:
 
 Now, it looks like this:
 
-<img src="../images/padding-3.png" alt="Padding 2" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/padding-3.png" alt="Padding 2" width="300">
 
 See how the spacing is on the inside? That is the padding. You can add padding to all sides or just one side. You can also use percentages, pixels, or ems. You can also use the `padding-top`, `padding-right`, `padding-bottom`, and `padding-left` properties to add padding to specific sides.
 
@@ -58,7 +58,7 @@ See how the spacing is on the inside? That is the padding. You can add padding t
 }
 ```
 
-<img src="../images/padding-4.png" alt="Padding 3" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/padding-4.png" alt="Padding 3" width="300">
 
 This will add padding to the top, right, bottom, and left sides respectively.
 
@@ -68,7 +68,7 @@ You can also use the `padding` property as a shorthand.
 
 Here is a cheat sheet for the order of the padding values:
 
-<img src="../images/padding-order.png" alt="Padding 4" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/padding-order.png" alt="Padding 4" width="300">
 
 To give us the same result as the previous example, you can use the following shorthand:
 

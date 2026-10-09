@@ -45,7 +45,7 @@ body {
 
 This will create a container with a fixed width of 1100px. The container will be centered on the page. This is fine for desktop screens, but go ahead and resize your browser window. You will see that the container will stay the same width no matter how small you make the window. This is not ideal for smaller screens as the text will get cut off.
 
-<img src="../images/flexible-layouts-1.png" alt="Fixed Width" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexible-layouts-1.png" alt="Fixed Width" width="500">
 
 ## Percentage Width
 
@@ -62,7 +62,7 @@ There are a couple things that we could do to make this more flexible. One thing
 
 Now the container will be 80% of the width of its parent element no matter what the size of the window is. This is a great way to make your website more flexible and responsive.
 
-<img src="../images/flexible-layouts-2.png" alt="Percentage Width" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexible-layouts-2.png" alt="Percentage Width" width="500">
 
 ## Max Width
 
@@ -95,7 +95,7 @@ You can take off the 80% width if you want to. It will still be responsive becau
 
 The text is still readable on smaller screens, but it won't get too wide on larger screens.
 
-<img src="../images/flexible-layouts-3.png" alt="Max Width" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexible-layouts-3.png" alt="Max Width" width="500">
 
 You can also set percentages on margins and paddings.
 
@@ -150,7 +150,7 @@ Now let's add an image to the container that is 1100px wide:
 
 The image will be 1100px wide, but the container will only be 900px wide. This is not ideal.
 
-<img src="../images/flexible-layouts-4.png" alt="Image Width" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexible-layouts-4.png" alt="Image Width" width="500">
 
 Let's set the `max-width` of the image to 100%:
 
@@ -162,7 +162,7 @@ img {
 
 Now the image will be contained.
 
-<img src="../images/flexible-layouts-5.png" alt="Image Width" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flexible-layouts-5.png" alt="Image Width" width="500">
 
 You can resize the window and the image will always be the same width as its parent element.
 

@@ -25,7 +25,7 @@ Let's open up the devtools in the browser by right-clicking on the page and sele
 
 If you click on one of the headings, you'll see the default styles applied by the browser. There is a font size, font weight, and margin applied to each heading level. You can override these styles with your own CSS, but these are the default styles. In many cases, developers such as myself will reset these styles to have a clean slate to work with. We'll cover all this when we get to CSS.
 
-<img src="../images/heading-styles.png" />
+<img src="https://raw.githubusercontent.com/Vincent8314/premium-docs-images/main/images/heading-styles.png"/>
 
 Typically, there is only one `<h1>` tag on a page. It's used for the main heading of the page. The other heading levels are used to create a hierarchy of content. For example, you might have an `<h2>` tag for a section heading and `<h3>` tags for sub-sections within that section.
 

@@ -36,6 +36,6 @@ One of the key features of CSS Grid is the ability to create two-dimensional lay
 
 If we look at this image:
 
-<img src="../images/css-grid.png" alt="CSS Grid Layout Example" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/css-grid.png" alt="CSS Grid Layout Example" width="600">
 
 Notice the `MENU` column spans a bunch of rows and the `BANNER` and `MAIN` span the `EXTRA` and `IMAGE` columns. This is a two-dimensional layout. You can't do this with flexbox. With flexbox, you can only control one dimension at a time. Either rows or columns, not both.

@@ -63,7 +63,7 @@ Let's add a black border to the boxes:
 
 The value order for the `border` property is the following:
 
-<img src="../images/css-border.png" alt="Border 1" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/css-border.png" alt="Border 1" width="300">
 
 ## Border Width
 

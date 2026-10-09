@@ -45,7 +45,7 @@ body {
 
 We have a container that is 600px wide and a grid with three columns, each with a width of 100px. This will create a grid with three columns.
 
-<img src="../images/grid-16.png" width="500" alt="Grid with three columns">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-16.png" width="500" alt="Grid with three columns">
 
 What if I want the grid to have as many columns as possible, but with a minimum width of 100px? I can manually set the number of columns to a high number. Since I know the container is 600px wide, I can set the number of columns to 6:
 
@@ -56,7 +56,7 @@ What if I want the grid to have as many columns as possible, but with a minimum 
 }
 ```
 
-<img src="../images/grid-17.png" width="500" alt="Grid with six columns">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-17.png" width="500" alt="Grid with six columns">
 
 Now it fills it, but what if I want to add more items and/or change the width of the container?
 
@@ -89,7 +89,7 @@ and let's add in more items:
 
 Now we have a grid with 10 items:
 
-<img src="../images/grid-18.png" width="500" alt="Grid with ten items">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-18.png" width="500" alt="Grid with ten items">
 
 The items no longer take up the entire width of the container. We can fix this by using the `auto-fit` or `auto-fill` keyword. These are both very similar. The difference is that `auto-fill` will create as many columns as possible, even if they are empty, while `auto-fit` will create as many columns as possible without empty space.
 
@@ -104,7 +104,7 @@ Let's use `auto-fit`:
 
 Now it fills the container:
 
-<img src="../images/grid-19.png" width="500" alt="Grid with ten items and auto-fit">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-19.png" width="500" alt="Grid with ten items and auto-fit">
 
 If you resize the browser, you will see that the grid will adjust the number of columns to fill the container.
 
@@ -117,7 +117,7 @@ The issue here is that you still have some empty space at the end of the grid. Y
 }
 ```
 
-<img src="../images/grid-20.png" width="500" alt="Grid with ten items and auto-fit">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-20.png" width="500" alt="Grid with ten items and auto-fit">
 
 The `minmax()` function will create columns with a minimum width of 100px and a maximum width of 1fr. This will make the columns take up the entire width of the container.
 
@@ -140,8 +140,8 @@ Let's remove some items so that we only have 6 items:
 
 With `auto-fill`, you will see that the grid will create as many columns as possible, even if they are empty:
 
-<img src="../images/grid-22.png" width="500" alt="Grid with six items and auto-fill">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-22.png" width="500" alt="Grid with six items and auto-fill">
 
 With `auto-fit`, the grid will create as many columns as possible without empty space:
 
-<img src="../images/grid-21.png" width="500" alt="Grid with six items and auto-fit">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-21.png" width="500" alt="Grid with six items and auto-fit">

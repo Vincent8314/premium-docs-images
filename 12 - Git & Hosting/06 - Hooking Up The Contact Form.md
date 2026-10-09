@@ -30,6 +30,6 @@ Go to [Netlify](https://www.netlify.com/) and go to your project. Click on the `
 
 Once the site is deployed, you can test the form by submitting it. You should receive an email with the form data. You can also see the form submissions in the `Forms` tab in Netlify.
 
-<img src='../images/netlify-forms.png' alt='Netlify Forms'>
+<img src='https://github.com/Vincent8314/premium-docs-images/raw/main/images/netlify-forms.png' alt='Netlify Forms'>
 
 Now you have a working form.

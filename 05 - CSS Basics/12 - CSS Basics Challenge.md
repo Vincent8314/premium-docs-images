@@ -48,7 +48,7 @@ Here are the requirements:
 
 Here is what it should look like:
 
-<img src="../images/sneaker-hut-1.png" width="500" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/sneaker-hut-1.png" width="500" />
 
 <details>
   <summary>Click here for the solution</summary>

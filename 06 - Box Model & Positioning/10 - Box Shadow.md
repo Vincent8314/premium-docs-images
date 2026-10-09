@@ -41,7 +41,7 @@ Don't worry about the flexbox stuff. I just wanted to have some boxes in a row.
 
 It should look like this:
 
-<img src="../images/shadow-1.png" alt="Box Shadow 1">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-1.png" alt="Box Shadow 1">
 
 Let's add some shadows to the boxes.
 
@@ -53,7 +53,7 @@ Here is the syntax:
 }
 ```
 
-<img src="../images/shadow-2.png" alt="Box Shadow 2">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-2.png" alt="Box Shadow 2">
 
 This can be a bit confusing at first.
 
@@ -77,7 +77,7 @@ Let's make the horizontal offset `10px` and the vertical offset `10px`:
 }
 ```
 
-<img src="../images/shadow-3.png" alt="Box Shadow 3">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-3.png" alt="Box Shadow 3">
 
 Now it comes out on the right side. If we wanted it on the left side, we would make the horizontal offset `-10px`.
 
@@ -89,7 +89,7 @@ Let's add some vertical offset to the second box:
 }
 ```
 
-<img src="../images/shadow-4.png" alt="Box Shadow 4">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-4.png" alt="Box Shadow 4">
 
 If you want it on the top, you would make the vertical offset `-10px`.
 
@@ -101,7 +101,7 @@ You can also add multiple shadows to an element. Let's do that and add a red sha
 }
 ```
 
-<img src="../images/shadow-5.png" alt="Box Shadow 5">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-5.png" alt="Box Shadow 5">
 
 This is a cool effect. It looks like the box is floating.
 
@@ -113,4 +113,4 @@ Let's increase the spread radius to `10px` on the second box:
 }
 ```
 
-<img src="../images/shadow-7.png" alt="Box Shadow 6">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/shadow-7.png" alt="Box Shadow 6">

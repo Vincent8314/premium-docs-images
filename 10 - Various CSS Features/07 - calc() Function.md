@@ -61,7 +61,7 @@ Now the `.item` element will take up 50% of the width of the `.container` elemen
 
 You can open the devtools and click on the `Computed` tab to see the calculated width of the `.item` element.
 
-<img src="../images/calc-devtools.png" alt="calc() function in devtools" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/calc-devtools.png" alt="calc() function in devtools" width="500">
 
 One thing that is important to remember is that you need to have spaces around the `+`, `-`, `*`, and `/` operators in the `calc()` function. For example, this will not work:
 
@@ -140,7 +140,7 @@ Set the `.item` to the following styles:
 }
 ```
 
-<img src="../images/calc-1.png" alt="calc() function example">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/calc-1.png" alt="calc() function example">
 
 We know the container is 1000px wide, and we have 5 items so we set each of the 5 items to be 200px wide and 200px height. However, we want to add a margin of 10px around all of the items, which now causes them to break out of the container. This is where the `calc()` function comes in.
 
@@ -162,6 +162,6 @@ Now they fit width--wise with the margin included. We could change the container
 
 Now the items will always fit within the container, no matter the size.
 
-<img src="../images/calc-2.png" alt="calc() function example">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/calc-2.png" alt="calc() function example">
 
 This is a simple example, but you can see how powerful the `calc()` function can be when used correctly.

@@ -56,7 +56,7 @@ You could also add a height to the flex container to see the alignment and justi
 
 Now it is clear exactly where our flex container is.
 
-<img src="../images/flex-7.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-7.png" alt="Flex Items" width="600">
 
 There are two main properties that we use to align and justify the items in a flex container: `justify-content` and `align-items`.
 
@@ -66,7 +66,7 @@ The `justify-content` property aligns the items along the main axis. The main ax
 
 Here is the image of a row just to make it clear:
 
-<img src="../images/flex-row.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-row.png" alt="Flex Items" width="600">
 
 The `justify-content` property has 5 possible values:
 
@@ -102,7 +102,7 @@ This will keep the items at the start of the main axis. So no change will be vis
 
 This will keep the items at the end of the main axis.
 
-<img src="../images/flex-8.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-8.png" alt="Flex Items" width="600">
 
 ### Center
 
@@ -115,7 +115,7 @@ This will center the items along the main axis.
 }
 ```
 
-<img src="../images/flex-9.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-9.png" alt="Flex Items" width="600">
 
 ### Space Between
 
@@ -128,7 +128,7 @@ This will distribute the items evenly along the main axis. There is not space at
 }
 ```
 
-<img src="../images/flex-10.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-10.png" alt="Flex Items" width="600">
 
 ### Space Around
 
@@ -141,7 +141,7 @@ This will distribute the items evenly along the main axis with space at the star
 }
 ```
 
-<img src="../images/flex-12.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-12.png" alt="Flex Items" width="600">
 
 ## Align Items
 
@@ -181,7 +181,7 @@ Now in this case, it won't change because the items have a fixed height. You can
 }
 ```
 
-<img src="../images/flex-14.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-14.png" alt="Flex Items" width="600">
 
 Let's put the height of the items back to 200px.
 
@@ -207,7 +207,7 @@ This will keep the items at the end of the cross axis.
 }
 ```
 
-<img src="../images/flex-11.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-11.png" alt="Flex Items" width="600">
 
 ### Center
 
@@ -220,7 +220,7 @@ This will center the items along the cross axis.
 }
 ```
 
-<img src="../images/flex-13.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-13.png" alt="Flex Items" width="600">
 
 ### Baseline
 
@@ -233,7 +233,7 @@ This will align the items such that their baselines align and they will not be s
 }
 ```
 
-<img src="../images/flex-15.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-15.png" alt="Flex Items" width="600">
 
 ## Columns & Alignment
 
@@ -262,7 +262,7 @@ So let's say we want to align the items at the center of the cross axis, we woul
 }
 ```
 
-<img src="../images/flex-16.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-16.png" alt="Flex Items" width="600">
 
 This is really important to remember. When you change the direction of the flex container to column, the main axis becomes vertical and the cross axis becomes horizontal.
 
@@ -286,7 +286,7 @@ and the second item to be at the start of the cross axis.
 }
 ```
 
-<img src="../images/flex-20.png" alt="Flex Items" width="600">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-20.png" alt="Flex Items" width="600">
 
 ## Centering The Inner Content
 

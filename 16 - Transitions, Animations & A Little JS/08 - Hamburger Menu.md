@@ -125,7 +125,7 @@ I added a navbar container class because we want to use flexbox to control the l
 
 It should look like this so far:
 
-<img src="../images/navbar-1.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/navbar-1.png" alt="" />
 
 We also want to use flexbox to style the menu items. We want them to be in a row and spaced out. Here is the CSS:
 
@@ -137,7 +137,7 @@ We also want to use flexbox to style the menu items. We want them to be in a row
 }
 ```
 
-<img src="../images/navbar-2.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/navbar-2.png" alt="" />
 
 Now let's add some hover effects to the links:
 
@@ -244,7 +244,7 @@ Let's add the mobile links to the hover for the regular links:
 
 It should look like this:
 
-<img src="../images/navbar-3.png" alt="" width="300" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/navbar-3.png" alt="" width="300" />
 
 The hamburger menu is pretty much complete. Sometimes people will create the actual icon using CSS, but I prefer to use Font Awesome. You can also use other icon libraries or create your own. I do want to make the cursor a pointer when hovering over the hamburger icon. Here is the CSS:
 

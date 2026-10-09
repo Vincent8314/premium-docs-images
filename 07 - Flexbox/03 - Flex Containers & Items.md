@@ -31,7 +31,7 @@ body {
 
 We just have 3 boxes in a regular layout one on top of the other.
 
-<img src="../images/flex-1.png" alt="Flex Items" width="300">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-1.png" alt="Flex Items" width="300">
 
 Let's turn the parent `div` into a flex container by adding the `display: flex` property to the `.flex-container` class.
 
@@ -44,13 +44,13 @@ Let's turn the parent `div` into a flex container by adding the `display: flex` 
 
 Now, the boxes are displayed in a row, side by side. The container takes up the full width of the page. Of course, you could also set a fixed width for the container.
 
-<img src="../images/flex-2.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-2.png" alt="Flex Items" width="500">
 
 ## Devtools
 
 There is a great way to see the flex container and flex items in the browser. You can right-click on the container and select "Inspect" to open the developer tools. You can then hover over the container and see the flex items highlighted. You can also click on 'Layout' to see the flex properties.
 
-<img src="../images/flex-devtools.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-devtools.png" alt="" />
 
 The default layout direction of a flex container is a row. This means that the flex items are laid out horizontally along the main axis.
 
@@ -65,7 +65,7 @@ Now anything that I put directly inside the `.flex-container` will be a flex ite
 </div>
 ```
 
-<img src="../images/flex-3.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-3.png" alt="Flex Items" width="500">
 
 You can see that it is aligned with the other flex items. This is because the paragraph is also a flex item inside the flex container.
 
@@ -82,7 +82,7 @@ In order for it to be a flex item of the container, it must be a direct child of
 </div>
 ```
 
-<img src="../images/flex-4.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-4.png" alt="Flex Items" width="500">
 
 Let's remove the paragraph and go back to the original layout.
 
@@ -108,7 +108,7 @@ Like I said in the last lesson, your flexbox can be wither a row or a column. Th
 
 Now the boxes are displayed in a column, one on top of the other.
 
-<img src="../images/flex-5.png" alt="Flex Items" width="200">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-5.png" alt="Flex Items" width="200">
 
 You may say that this is the same as the default layout, but it's not. When using a flexbox column, we can use certain alignment properties that we can't use with a regular layout.
 
@@ -187,7 +187,7 @@ We can add the `flex-wrap` property to the flex container to make the items wrap
 
 Now when you make the browser window smaller, the items will wrap to the next line.
 
-<img src="../images/flex-6.png" alt="Flex Items" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/flex-6.png" alt="Flex Items" width="500">
 
 This is one option to make your layout more responsive.
 

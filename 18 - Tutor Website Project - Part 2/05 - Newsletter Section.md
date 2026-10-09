@@ -88,4 +88,4 @@ All I want to do on smaller screens is to reduce the font size of the heading an
 
 The section should look like this:
 
-<img src="../images/tutor-11.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-11.png" />

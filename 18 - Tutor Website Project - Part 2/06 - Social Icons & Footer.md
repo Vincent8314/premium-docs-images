@@ -105,4 +105,4 @@ We use flexbox to align the social icons and footer links. We add some backgroun
 
 The section should look like this:
 
-<img src="../images/tutor-12.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-12.png" />

@@ -6,7 +6,7 @@ Go to [Netlify](https://www.netlify.com/) and log in with your Github account.
 
 Once you are logged in, click on the `Import an existing project` option.
 
-<img src="../images/netlify-1.png" alt="Netlify Import Project">
+<img src=".https://github.com/Vincent8314/premium-docs-images/raw/main/images/netlify-1.png" alt="Netlify Import Project">
 
 Choose your repository and click on the `Deploy` button.
 

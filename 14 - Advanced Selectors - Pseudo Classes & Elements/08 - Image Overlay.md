@@ -55,7 +55,7 @@ It is important to add the height of 100% to the container so that it takes up t
 
 It should look like this so far:
 
-<img src="../images/hero-1.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/hero-1.png" alt="">
 
 ## Hero Styles
 
@@ -113,7 +113,7 @@ And finally, the button/link:
 
 It should look like this:
 
-<img src="../images/hero-2.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/hero-2.png" alt="">
 
 ## Background Image
 
@@ -129,7 +129,7 @@ Now let's see what it looks like if we add a background image. You should have t
 
 Now the image shows up, however, the text is hard to read.
 
-<img src="../images/hero-3.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/hero-3.png" alt="">
 
 ## Overlay
 
@@ -179,7 +179,7 @@ Right now, the text is also hard to read because the overlay is on top of it. We
 
 Now the text is readable:
 
-<img src="../images/hero-4.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/hero-4.png" alt="">
 
 You can change the color and transparency of the overlay by changing the `rgba` values. You can also change the opacity by changing the last value.
 

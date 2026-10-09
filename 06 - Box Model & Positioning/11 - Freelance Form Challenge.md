@@ -2,7 +2,7 @@
 
 Now we are going to take a bunch of the stuff we have learned and put it all together to create a small UI project. This is a simple single-input form that you might see on a freelancer's website. Here is the final result:
 
-<img src="../images/freelance-form.png" alt="Freelancer Form">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/freelance-form.png" alt="Freelancer Form">
 
 I want you to look at this image and re-create it the best you can using HTML and CSS.
 

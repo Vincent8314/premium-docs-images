@@ -70,7 +70,7 @@ footer {
 
 We want it to look like this:
 
-<img src="../images/grid-template-4.png" alt="Grid Template Areas 4" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-4.png" alt="Grid Template Areas 4" width="500">
 
 With grid-template-areas, Let's create a one column layout with the header at the top, the search in the middle and the nav at the bottom. We can do this by adding the following CSS to the container element:
 
@@ -132,11 +132,11 @@ Since we now have a 2 column layout, we had to also add another column to the na
 
 It should look like this now:
 
-<img src="../images/grid-template-1.png" alt="Grid Template Areas" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-1.png" alt="Grid Template Areas" width="500">
 
 You can also use the devtools to see the actual columns. Click on the `Layout` tab and check the grid container checkbox.
 
-<img src="../images/grid-template-devtools.png" alt="Grid Template Areas" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-devtools.png" alt="Grid Template Areas" width="500">
 
 I actually want the search to be smaller than the header width-wise. So we can add another column to the layout and span the header 2 columns:
 
@@ -152,7 +152,7 @@ I actually want the search to be smaller than the header width-wise. So we can a
 
 Now it should look like this:
 
-<img src="../images/grid-template-2.png" alt="Grid Template Areas 2" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-2.png" alt="Grid Template Areas 2" width="500">
 
 Let's add the main content and aside to the layout. Uncomment the main and aside elements in the HTML and add the following CSS to the container element:
 
@@ -196,7 +196,7 @@ I actually want the search and aside to both be smaller width-wise. Let's make i
 }
 ```
 
-<img src="../images/grid-template-3.png" alt="Grid Template Areas 3" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-3.png" alt="Grid Template Areas 3" width="500">
 
 Finally, we will add the footer. Uncomment the footer element in the HTML and add the following CSS to the container element:
 
@@ -225,7 +225,7 @@ footer {
 
 Now we have our layout:
 
-<img src="../images/grid-template-4.png" alt="Grid Template Areas 4" width="500">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-template-4.png" alt="Grid Template Areas 4" width="500">
 
 ## Make it Responsive
 

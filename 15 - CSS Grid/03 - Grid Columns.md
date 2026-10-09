@@ -38,7 +38,7 @@ body {
 
 We just have a container with six items. Let's enable the grid container and define the columns of the grid. Now you could just as well make the `.container` class the grid container. That is pretty common, but I like to keep the container class for width and margin and create a new class for the grid. This way, I can reuse the container class for other elements that are not grid containers. So I have added the `.item-grid` class to the container.
 
-<img src="../images/grid-1.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-1.png" alt="">
 
 Add the following:
 
@@ -63,7 +63,7 @@ We define columns using the `grid-template-columns` property. This property acce
 
 Now we have three columns with 100 pixels each.
 
-<img src="../images/grid-2.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-2.png" alt="">
 
 It doesn't matter how many items we have; they will be placed in the columns. If we have more items than columns, they will be placed in the next row. If we have fewer items, the columns will have empty space.
 
@@ -76,7 +76,7 @@ If we added another `100px` to the `grid-template-columns` property, we would ha
 }
 ```
 
-<img src="../images/grid-3.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-3.png" alt="">
 
 ### Percentages
 
@@ -89,7 +89,7 @@ Many times, you want the items to fill the container width-wise. We have a coupl
 }
 ```
 
-<img src="../images/grid-4.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-4.png" alt="">
 
 ### Auto
 
@@ -102,7 +102,7 @@ Another option is to use the `auto` keyword. This will make the columns as wide 
 }
 ```
 
-<img src="../images/grid-8.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-8.png" alt="">
 
 ### Fraction Units (fr)
 
@@ -126,7 +126,7 @@ If you wanted to fill it with 2 columns, you could do:
 }
 ```
 
-<img src="../images/grid-5.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-5.png" alt="">
 
 With flexbox, when we want to fill the container width-wise, we use the `flex-grow` or `flex` property on the item itself. With grid, we define the columns on the container. This is a much better approach in my opinion.
 
@@ -134,7 +134,7 @@ With flexbox, when we want to fill the container width-wise, we use the `flex-gr
 
 Just like with flexbox, you can use the devtools to see the grid. Right-click on the container and select `Inspect`. Click `Layout` to see the grid properties.
 
-<img src="../images/grid-devtools.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-devtools.png" alt="">
 
 ## Unequal Columns
 
@@ -147,7 +147,7 @@ We don't have to use the same value for each column. We can use any value or lis
 }
 ```
 
-<img src="../images/grid-10.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-10.png" alt="">
 
 So you see how flexible the `grid-template-columns` property is. You can use any value or list of values.
 
@@ -176,7 +176,7 @@ Let's add a gap of `1rem` horizontally. We do this with a property called `grid-
 }
 ```
 
-<img src="../images/grid-6.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-6.png" alt="">
 
 ### grid-column-gap
 
@@ -191,7 +191,7 @@ We can also add a gap vertically. We do this with a property called `grid-column
 }
 ```
 
-<img src="../images/grid-7.png" alt="">
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/grid-7.png" alt="">
 
 ### gap
 

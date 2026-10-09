@@ -107,4 +107,4 @@ Make your gallery section look like this:
 
 Now, when you click on an image, it will show the linked image in a nice lightbox:
 
-<img src="../images/lumina-9.png" alt="" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/lumina-9.png" alt="" />

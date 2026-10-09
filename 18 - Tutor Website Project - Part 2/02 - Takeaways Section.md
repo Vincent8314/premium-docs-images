@@ -122,4 +122,4 @@ I want to stack the cards on screens that are less than `992px`. We already have
 
 Thats it for the takeaways section. You should now have a nicely styled section with key takeaways from the course.
 
-<img src="../images/tutor-8.png" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/tutor-8.png" />

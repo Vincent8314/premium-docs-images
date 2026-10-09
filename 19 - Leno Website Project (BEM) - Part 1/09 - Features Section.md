@@ -161,7 +161,7 @@ Now let's style the grid:
 
 So we should have 3 columns that look like this:
 
-<img src="../images/leno-features-grid.png" alt="Features Grid" />
+<img src="https://github.com/Vincent8314/premium-docs-images/raw/main/images/leno-features-grid.png" alt="Features Grid" />
 
 #### List Items
 
